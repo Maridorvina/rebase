@@ -1,0 +1,20 @@
+<!DOCTYPE>
+<html>
+
+<head>
+<title>Revision of text, title and image</title>
+<meta charset="UTF-8">
+</head>
+
+<body>
+<h1>Text</h1>
+
+<p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
+e vem sendo utilizado desde o século XVI, 
+quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.<br>
+Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, 
+permanecendo essencialmente inalterado</p>
+
+<h2>Title</h2>
+
+<h2>Image</h2>
